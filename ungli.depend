@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1432041676 source:c:\users\pranav prakash\documents\c++ expt\opencv\ungli\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv/cxcore.h>
+
+1364597757 c:\opencv\include\opencv\cxcore.h
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+
